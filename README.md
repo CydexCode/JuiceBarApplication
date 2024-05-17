@@ -3,14 +3,11 @@
 <p align="center">
   <img src="Application.png" width="500" height="320" />
 </p>
-<br>
-Demo : https://youtu.be/F4qPKMhbDEw?si=T_UvjkeXKWgeqLOw
-<br>
-<br>
-
 ## Demo
 Watch the demo [here](https://youtu.be/F4qPKMhbDEw?si=T_UvjkeXKWgeqLOw)
 
+
+## Instructions
 Follow these steps to set up and run the Restaurant Management System Frontend:
 
 
@@ -53,7 +50,8 @@ Follow these steps to set up and run the Restaurant Management System Frontend:
 
 To run the application, execute the following command:
 ```bash
-npm start
+npm start  
 
-
+## Backend
+Backend Instructoin : https://github.com/CydexCode/JuiceBarAPI
 
