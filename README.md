@@ -4,7 +4,6 @@
   <img src="Application.png" width="500" height="320" />
 </p>
 ## Demo
-
 Watch the demo [here](https://youtu.be/F4qPKMhbDEw?si=T_UvjkeXKWgeqLOw)
 
 
