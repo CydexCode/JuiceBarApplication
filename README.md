@@ -3,9 +3,9 @@
 <p align="center">
   <img src="Application.png" width="500" height="320" />
 </p>
+
 ## Demo
 Watch the demo [here](https://youtu.be/F4qPKMhbDEw?si=T_UvjkeXKWgeqLOw)
-
 
 ## Instructions
 Follow these steps to set up and run the Restaurant Management System Frontend:
@@ -32,7 +32,7 @@ Follow these steps to set up and run the Restaurant Management System Frontend:
     - For example:
       ```javascript
       import ReorderIcon from '@mui/icons-material/Reorder';
- C
+      ```
 
 5. **Install Axios for API calls:**
     ```bash
