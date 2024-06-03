@@ -56,3 +56,5 @@ npm start
 ## Backend
 Backend Instructoin : https://github.com/CydexCode/JuiceBarAPI
 
+### Need a Star for this Repository ⭐
+
